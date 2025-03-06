@@ -1,2 +1,2 @@
 # comp1350
-MySQL DDL, DML and DQL code for COMP1350 Assignment 1
+MySQL code file COMP1350 Assignment 1
