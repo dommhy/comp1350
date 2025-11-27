@@ -1,2 +1,9 @@
 # comp1350
-MySQL code file COMP1350 Assignment 1
+
+Database system (MySQL) designed for a sample chocolate museum.
+
+Files:
+- `documentation.docx` ER Diagram, Model Assumptions and 
+- `01_10.sql` DDL, DML and DQL code.
+
+Used for COMP1350 Assignment 1 - Macquarie University - 2024 Session 2.
